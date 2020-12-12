@@ -1,6 +1,6 @@
 # ML-CaseStudies
 
-## 1. Credit ard Application approval
-## 2. E-commerce customer churn prediction
-
+## 1. StackOverflow-EDA
+## 2. Credit and Application approval
+## 3. E-commerce customer churn prediction
 
